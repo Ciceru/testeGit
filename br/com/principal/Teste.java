@@ -6,6 +6,8 @@ public class Teste {
 		// TODO Auto-generated method stub
 		
 		System.out.println("O Bona e o cara!!!");
+		
+		System.out.println("22 cm na regua!!!");
 
 	}
 
